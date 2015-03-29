@@ -1,0 +1,1 @@
+A library for arduino to control an adxl345 accelerometer device
